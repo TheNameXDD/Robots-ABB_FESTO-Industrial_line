@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<system creation-date="2015-12-02 16:37:11" desc=" " enable="False" id="E19EF8C8-F0CC-4FE9-9DD5-D800B581E081" last-modified-date="" name="TTHK-IRB120"><applications><application name="RobotWare" version="6.09.0154"><settings><setting-file path="/hd0a/TTHK-IRB120/INTERNAL/controller.rsf" /><system-xml path="/hd0a/TTHK-IRB120/system.xml" /><key-id path="/hd0a/TTHK-IRB120/INTERNAL/key.id" /></settings></application></applications></system>
